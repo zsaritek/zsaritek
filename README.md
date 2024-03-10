@@ -20,7 +20,6 @@ About Me;
 - 🤔 I’m looking for help with "Exploring advanced concepts in web development, diving deeper into specific technologies, and connecting with like-minded developers."
 - 💬 Ask me about "Anything related to Full-Stack Development, my experiences at Ironhack, or advice on starting a career in web development."
 - 📫 How to reach me: zsaritek@gmail.com
-- ⚡ Fun fact: I going to finish Full-Stack Web development bootcamp at Ironhack on February 2024, where I built projects using HTML, CSS, JavaScript (ES6), React, Express, NodeJS, and MongoDB.
 -->
   <div id="main" align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=zsaritek&show_icons=true&theme=ADD_THEME_HERE" width="400">
