@@ -26,25 +26,29 @@ Software Developer with a background in maritime operations, now focused on web 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-9146FF?style=for-the-badge" alt="Prompt Engineering"/>
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://www.npmjs.com/package/react-opinion-magnet">
-    <img src="https://img.shields.io/badge/NPM_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Package"/>
-  </a>
-  <p>React Opinion Magnet - A customizable feedback component built with React.js, Vite, Axios and CSS</p>
+  <img src="https://img.shields.io/badge/AI_Production-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="AI Production"/>
+  <p>AI Production - Implementing AI solutions in production environments</p>
   
-  <a href="https://opinion-magnet.adaptable.app/">
-    <img src="https://img.shields.io/badge/Admin_UI-3498DB?style=for-the-badge&logo=react&logoColor=white" alt="Admin UI"/>
-  </a>
-  <p>React Admin UI for Analytics - Created with React, Vite, JavaScript, Axios, JWT and Tailwind</p>
+  <img src="https://img.shields.io/badge/AI_Learning_Dutch-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="AI Learning Dutch"/>
+  <p>AI Learning Dutch - Language learning application using AI technologies</p>
   
-  <a href="https://cocktail-chronicles.adaptable.app/">
-    <img src="https://img.shields.io/badge/Mobile_App-9B59B6?style=for-the-badge&logo=javascript&logoColor=white" alt="Mobile App"/>
+  <img src="https://img.shields.io/badge/Opinion_Magnet-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Opinion Magnet"/>
+  <p>Opinion Magnet - A customizable feedback component built with React.js</p>
+
+  <img src="https://img.shields.io/badge/Mobile_App-9B59B6?style=for-the-badge&logo=javascript&logoColor=white" alt="Mobile App"/>
   </a>
   <p>Mobile-Friendly App - Developed with Handlebars, JavaScript, Express, MongoDB, and Tailwind</p>
+
+
 </div>
 
 ## 👔 Professional Experience
@@ -66,9 +70,13 @@ Software Developer with a background in maritime operations, now focused on web 
 - Improving my full-stack development skills
 - Contributing to open-source projects
 - Expanding my knowledge in containerized deployments and analytics tools
+- AI and Service Agent
 
 ## 📫 Let's Connect!
 
 I'm open to collaboration and new opportunities. Feel free to reach out via [Email](mailto:zsaritek@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zeynep-sariteke/)!
+
+
+
 
 
