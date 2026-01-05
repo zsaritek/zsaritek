@@ -2,81 +2,109 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-sariteke/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://zsaritek.github.io/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zsaritek)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zsaritek@gmail.com)
 </div>
 
+Focused on building production-ready applications with clean architecture, secure APIs, and AI-powered features.
+
+---
+
 ## 👩‍💻 About Me
 
-Software Developer with a background in maritime operations, now focused on web development. I bring 15+ years of industry experience with strong analytical and communication skills to the tech field. I'm passionate about creating efficient solutions and continuously expanding my technical knowledge.
+Software Developer with hands-on experience building end-to-end applications across frontend, backend, and mobile. I work mainly with React, TypeScript, and Node.js, and enjoy designing clean user interfaces while also building and integrating reliable APIs.
+
+In recent projects, I’ve worked on AI-powered applications, subscription-based systems, and data-driven platforms, taking features from idea to production. I’m comfortable switching between frontend and backend tasks and value writing maintainable, well-structured code that supports real users and real use cases.
+
+---
 
 ## 🛠️ Skills
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-9146FF?style=for-the-badge" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+**Languages & Frameworks**  
+JavaScript, TypeScript, Python, React, React Native, Node.js, Express  
+
+**Frontend Engineering**  
+Component-based architecture, Responsive UI, Tailwind CSS, shadcn/ui, Framer Motion, Performance optimization, Code splitting & lazy loading  
+
+**Backend & APIs**  
+REST API design & integration, MongoDB, Authentication & Authorization, JWT, Secure client–server communication  
+
+**Payments & Subscriptions**  
+In-app purchases, Subscription management, RevenueCat integration  
+
+**AI & Data**  
+AI API integration, Prompt engineering, RAG fundamentals  
+
+**Authentication & Messaging**  
+SMS-based authentication, Twilio integration  
+
+**Testing & Quality**  
+Unit testing, Critical user flow testing  
+
+**Deployment & Tooling**  
+Expo, TestFlight, Play Console, Docker, Environment configuration (.env), Cloudflare  
+
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI_Production-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="AI Production"/>
-  <p>AI Production - Implementing AI solutions in production environments</p>
-  
+  <p><strong>AI Production</strong> – Implementing AI solutions in production environments</p>
+
   <img src="https://img.shields.io/badge/AI_Learning_Dutch-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="AI Learning Dutch"/>
-  <p>AI Learning Dutch - Language learning application using AI technologies</p>
-  
-  <img src="https://img.shields.io/badge/Opinion_Magnet-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Opinion Magnet"/>
-  <p>Opinion Magnet - A customizable feedback component built with React.js</p>
-
-  <img src="https://img.shields.io/badge/Mobile_App-9B59B6?style=for-the-badge&logo=javascript&logoColor=white" alt="Mobile App"/>
-  </a>
-  <p>Mobile-Friendly App - Developed with Handlebars, JavaScript, Express, MongoDB, and Tailwind</p>
-
-
+  <p><strong>AI Learning Dutch</strong> – AI-assisted language learning application</p>
 </div>
 
-## 👔 Professional Experience
+---
 
-- **Software Developer** at Thread in Motion (2024/10 - 2025/01)
-- **Intern Software Developer** at Thread in Motion (2024/07 - 2024/10)
-- **Operations Executive** at Wilmar Europe Trading BV (2022/03 - 2022/07)
-- **Product Specialist** at The Freight Report (2019/05 - 2021/03)
+### **MIREYA — AI-Powered Application**
+*React Native, Expo, TypeScript, Node.js, Python, MongoDB, Cloudflare*
 
-## 📊 GitHub Stats
+AI-powered application currently in private beta.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zsaritek&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zsaritek&theme=tokyonight" width="400">
-</div>
+- SMS-based authentication with Twilio  
+- Subscription and in-app purchase handling via RevenueCat  
+- Backend APIs and secure client–server communication  
+- Deployed to TestFlight with active private beta users  
+
+---
+
+### **FRAMESHIFT-UI — UI & Landing Page Generator**
+*React, Vite, Tailwind CSS, shadcn/ui, Framer Motion*
+
+Reusable UI system designed to simulate real product landing pages.
+
+- Responsive layout system with reusable sections  
+- Token-based design system for spacing, typography, colors, and motion  
+- Shared animation presets and accessibility-focused components  
+
+---
+
+### **Warehouse Management System**
+*React, Node.js, Express, MongoDB, REST APIs*
+
+Web-based platform supporting core warehouse operations.
+
+- Inventory, order, and warehouse workflows  
+- Backend API design aligned with operational processes  
+- Frontend dashboards integrated with backend data models  
+
+---
 
 ## 🌱 Currently Working On
 
-- AI and Service Agent
-- Improving my full-stack development skills
-- Contributing to open-source projects
-- Expanding my knowledge in containerized deployments and analytics tools
+- AI, RAG, and service agents  
+- Improving my full-stack development skills  
+- Building and testing applications across **Apple and Android ecosystems** (TestFlight, Play Console, in-app purchases, deployment workflows)  
+- Contributing to open-source projects  
+- Expanding my knowledge in containerized deployments and analytics tools  
 
-## 📫 Let's Connect!
+---
 
-I'm open to collaboration and new opportunities. Feel free to reach out via [Email](mailto:zsaritek@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zeynep-sariteke/)!
+## 📫 Let’s Connect
 
-
-
-
-
+I’m open to collaboration and new opportunities.  
+Feel free to reach out via [Email](mailto:zsaritek@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zeynep-sariteke/).
