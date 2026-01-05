@@ -14,9 +14,7 @@ Focused on building production-ready applications with clean architecture, secur
 
 ## 👩‍💻 About Me
 
-Software Developer with hands-on experience building end-to-end applications across frontend, backend, and mobile. I work mainly with React, TypeScript, and Node.js, and enjoy designing clean user interfaces while also building and integrating reliable APIs.
-
-In recent projects, I’ve worked on AI-powered applications, subscription-based systems, and data-driven platforms, taking features from idea to production. I’m comfortable switching between frontend and backend tasks and value writing maintainable, well-structured code that supports real users and real use cases.
+Software Developer with hands-on experience building end-to-end applications across frontend, backend, and mobile. I work mainly with React, TypeScript, JavaScript, Python, and Node.js, and enjoy designing clean user interfaces while building reliable, well-structured APIs.
 
 ---
 
