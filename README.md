@@ -50,13 +50,6 @@ Expo, TestFlight, Play Console, Docker, Environment configuration (.env), Cloudf
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Production-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="AI Production"/>
-  <p><strong>AI Production</strong> – Implementing AI solutions in production environments</p>
-
-  <img src="https://img.shields.io/badge/AI_Learning_Dutch-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="AI Learning Dutch"/>
-  <p><strong>AI Learning Dutch</strong> – AI-assisted language learning application</p>
-</div>
 
 ---
 
@@ -70,6 +63,14 @@ AI-powered application currently in private beta.
 - Backend APIs and secure client–server communication  
 - Deployed to TestFlight with active private beta users  
 
+---
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_Production-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="AI Production"/>
+  <p><strong>AI Production</strong> – Implementing AI solutions in production environments</p>
+
+  <img src="https://img.shields.io/badge/AI_Learning_Dutch-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="AI Learning Dutch"/>
+  <p><strong>AI Learning Dutch</strong> – AI-assisted language learning application</p>
+</div>
 ---
 
 ### **FRAMESHIFT-UI — UI & Landing Page Generator**
