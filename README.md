@@ -71,25 +71,31 @@ AI-powered application currently in private beta.
 </div>
 ---
 
-### **FRAMESHIFT-UI — UI & Landing Page Generator**
-*React, Vite, Tailwind CSS, shadcn/ui, Framer Motion*
+### **ProShop — Full-Stack E-Commerce Platform**
+*React · Redux Toolkit · Node.js · Express · MongoDB*
 
-Reusable UI system designed to simulate real product landing pages.
+Production-style e-commerce application with complete shopping and admin workflows.
 
-- Responsive layout system with reusable sections  
-- Token-based design system for spacing, typography, colors, and motion  
-- Shared animation presets and accessibility-focused components  
+- JWT-based authentication and role-based authorization  
+- PayPal payment integration  
+- Product browsing, search, cart, and checkout flow
+- Admin dashboard for managing products, users, and orders
+- Responsive design for mobile and desktop  
+- ProShop — Full-Stack E-Commerce Platform
 
 ---
 
 ### **Warehouse Management System**
-*React, Node.js, Express, MongoDB, REST APIs*
+*React · shadcn/ui · Node.js · Python · SQL · JavaScript · REST APIs*
 
-Web-based platform supporting core warehouse operations.
+Web-based system supporting core warehouse operations, designed around real operational workflows and enterprise integrations.
 
-- Inventory, order, and warehouse workflows  
+- Frontend dashboards built with shadcn/ui for internal users  
 - Backend API design aligned with operational processes  
-- Frontend dashboards integrated with backend data models  
+- Frontend dashboards integrated with backend data models
+- Assisted implementation of OAuth / OIDC concepts and access management
+- SAP integration for inventory and order-related data flows
+- REST APIs aligned with operational processes and data consistency  
 
 ---
 
