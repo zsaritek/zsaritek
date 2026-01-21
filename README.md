@@ -59,8 +59,9 @@ AI-powered application currently in private beta.
 - SMS-based authentication with Twilio  
 - Subscription and in-app purchase handling via RevenueCat  
 - Backend APIs and secure client–server communication  
-- Deployed to TestFlight with active private beta users  
+- Expo, TestFlight, Play Console (end-to-end mobile release workflows), Docker, Cloudflare, environment configuration 
 
+###  **Experiments & Side Projects**
 ---
 <div align="center">
   <img src="https://img.shields.io/badge/AI_Production-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="AI Production"/>
@@ -101,13 +102,21 @@ Web-based system supporting core warehouse operations, designed around real oper
 
 ## 🌱 Currently Working On
 
-- AI, RAG, and service agents  
+- AI API integration
+- RAG fundamentals (vector search, retrieval, context handling)
+- Prompt engineering for production use
 - Improving my full-stack development skills  
 - Building and testing applications across **Apple and Android ecosystems** (TestFlight, Play Console, in-app purchases, deployment workflows)  
 - Contributing to open-source projects  
 - Expanding my knowledge in containerized deployments and analytics tools  
 
 ---
+
+## 🧠 Working Style
+
+- I like to take ownership and move quickly from idea to a usable solution  
+- I value early feedback and clear trade-offs over perfect plans  
+- If something doesn’t work, I’m comfortable changing direction fast
 
 ## 📫 Let’s Connect
 
